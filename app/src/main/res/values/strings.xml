@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Restaurantes CDMX</string>
+    <string name="toolbar_restaurants">Restaurantes</string>
+    <string name="tab_comida">Comida</string>
+    <string name="tab_bebidas">Bebidas</string>
+    <string name="tab_complementos">Complementos</string>
+    <string name="search_hint">Buscar…</string>
+    <string name="menu_search">Buscar</string>
+    <string name="context_comida">Comida</string>
+    <string name="context_bebida">Bebida</string>
+    <string name="context_complementos">Complementos</string>
+    <string name="description_label">Descripción:</string>
+    <string name="no_results">No se encontraron resultados</string>
+    <string name="content_desc_restaurant_image">Imagen del restaurante</string>
+    <string name="content_desc_item_image">Imagen del platillo</string>
+    <string name="content_desc_navigate_back">Regresar</string>
+    <string name="content_desc_chevron">Ver detalles</string>
+</resources>

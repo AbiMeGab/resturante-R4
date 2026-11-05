@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5B8DBE</color>
+    <color name="colorPrimaryDark">#3D6F9F</color>
+    <color name="colorPrimaryVariant">#3D6F9F</color>
+    <color name="colorSecondary">#FF6F00</color>
+    <color name="colorSecondaryVariant">#E65100</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#212121</color>
+    <color name="colorOnBackground">#212121</color>
+    <color name="divider_color">#E0E0E0</color>
+    <color name="price_color">#2E7D32</color>
+    <color name="text_secondary">#757575</color>
+    <color name="tab_selected">#FFFFFF</color>
+    <color name="tab_unselected">#B0BEC5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
